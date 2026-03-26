@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3500&pause=100&center=true&multiline=true&width=500&height=75&lines=Henrique;Backend+Develope)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3500&pause=100&center=true&multiline=true&width=500&height=83&lines=Henrique;Backend+Develope)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HH-oliveira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
