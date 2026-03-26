@@ -2,4 +2,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HH-oliveira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🛠 Linguagens mais utilizadas:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HH-oliveira&layout=compact&langs_count=7&theme=tokyo-night" />
