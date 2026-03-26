@@ -2,4 +2,21 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HH-oliveira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🛠 Linguagens mais utilizadas:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HH-oliveira&layout=compact&langs_count=7&theme=tokyo-night" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HH-oliveira&layout=compact&langs_count=7&theme=tokyo-night" /> <table>
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyo-night" />
+    </td>
+    <td valign="top">
+      <a href="https://www.instagram.com/hh.3nry/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+      </a><br>
+      <a href="https://x.com/mkdirMartins" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+      </a><br>
+      <a href="www.linkedin.com/in/henrique-gomes-389117356" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
